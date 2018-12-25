@@ -9,3 +9,13 @@ NLP TAGS PREDICITION SYSTEM
 https://www.hackerearth.com/problem/machine-learning/predict-the-energy-used-612632a9-3f496e7f-9da84021/submissions/
 It was an HAckerearth question for predicting tags based on article and title
 With use of NLP AND DEEP LEARNING.
+
+
+Data Description
+The dataset consists of ‘train.csv ’, ‘test.csv’ and ‘sample_submission.csv’. Description of the columns in the dataset is given below:
+id: Unique id for each article
+title: Title of the article
+article: Description of the article (raw format)
+tags: Tags associated with the respective article. If multiple tags are associated with an article then they are seperated by '|'.  
+
+Prepared a model which can predict tags based on given title and article.
